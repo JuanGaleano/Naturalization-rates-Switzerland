@@ -21,15 +21,20 @@ In order to make data available in an appealing way, we mapped the rates using R
 
 Althauser, R. P., & Wigler, M. (1972). Standardization and Component Analysis. Sociological Methods & Research, 1(1), 97–135. https://doi.org/10.1177/004912417200100105
 
-Kitagawa, E. (1964). Standardized Comparisons in Population Research, Demography, Vol. 1, No. 1 (1964), pp. 296-315
+Cheng, J.; Karambelkar, B. & Xie, Y. (2019). leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.0.3. https://CRAN.R-project.org/package=leaflet
 
-Wanner P., Piguet É. The Practice of Naturalization in Switzerland: A Statistical Overview. In: Population (English edition), 57ᵉ année, n°6, 2002. pp. 917-925. DOI : 10.2307/3246621
+Hainmueller, J., & Hangartner, D. (2013). Who gets a Swiss passport? A natural experiment in immigrant discrimination. American political science review, 107(1), 159-187.
+
+Kitagawa, E. (1964). Standardized Comparisons in Population Research, Demography, Vol. 1, No. 1 (1964), pp. 296-315
 
 Piguet E., Wanner P., Die Einbürgerungen in derSchweiz. Unterschiede zwischen Nationalitäten,Kantonen und Gemeinden, 1981–1998,Neuchâtel,Office fédéral de la statistique, 2000
 
+Wanner P., Piguet É. The Practice of Naturalization in Switzerland: A Statistical Overview. In: Population (English edition), 57ᵉ année, n°6, 2002. pp. 917-925. DOI : 10.2307/3246621
+
 Wanner P., Steiner I (2012), Einbürgerungslandschaft Switzerland. Entwicklung 1992-2010. Bern, EKM, 60p
 
-Joe Cheng, Bhaskar Karambelkar and Yihui Xie (2019). leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.0.3. https://CRAN.R-project.org/package=leaflet
-Hainmueller, J., & Hangartner, D. (2013). Who gets a Swiss passport? A natural experiment in immigrant discrimination. American political science review, 107(1), 159-187.
+
+
+
 
 
