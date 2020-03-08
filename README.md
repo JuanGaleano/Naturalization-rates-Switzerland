@@ -17,3 +17,20 @@ https://www.unige.ch/communication/communiques/en/2020/des-cartes-et-tableaux-in
 
 In order to make data available in an appealing way, we mapped the rates using R (a free software environment for statistical computing and graphics) and the library Leaflet (an open-source JavaScript library for interactive maps). The leaflet library for R allows users who not are familiar with JavaScript language to easily create web maps by means of its core functions (Cheng et al. 2019), being also possible to add different tiles as base maps. The final outcome can be saved as and html file which be embed in any webpage.   
 For those who could be interested in learning how to create this sort of interactive maps, we attach to this post data related with the standardized rates for the period 2011-2017 as well as the necessary shapefiles of Switzerland (by communes and cantons) and the annotated R code for creating the maps. For running the script, you need to have R and RStudio installed on your computer. We hope the community will find these extra materials useful.   
+
+## References: 
+
+Althauser, R. P., & Wigler, M. (1972). Standardization and Component Analysis. Sociological Methods & Research, 1(1), 97–135. https://doi.org/10.1177/004912417200100105
+
+Kitagawa, E. (1964). Standardized Comparisons in Population Research, Demography, Vol. 1, No. 1 (1964), pp. 296-315
+
+Wanner P., Piguet É. The Practice of Naturalization in Switzerland: A Statistical Overview. In: Population (English edition), 57ᵉ année, n°6, 2002. pp. 917-925. DOI : 10.2307/3246621
+
+Piguet E., Wanner P., Die Einbürgerungen in derSchweiz. Unterschiede zwischen Nationalitäten,Kantonen und Gemeinden, 1981–1998,Neuchâtel,Office fédéral de la statistique, 2000
+
+Wanner P., Steiner I (2012), Einbürgerungslandschaft Switzerland. Entwicklung 1992-2010. Bern, EKM, 60p
+
+Joe Cheng, Bhaskar Karambelkar and Yihui Xie (2019). leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.0.3. https://CRAN.R-project.org/package=leaflet
+Hainmueller, J., & Hangartner, D. (2013). Who gets a Swiss passport? A natural experiment in immigrant discrimination. American political science review, 107(1), 159-187.
+
+
