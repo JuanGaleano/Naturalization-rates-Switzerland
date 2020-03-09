@@ -8,14 +8,16 @@ For policy makers and persons in charge of the naturalization at the municipalit
 
 Therefore, standardized naturalization rates were developed in order to compute the number of naturalizations (in %) for a « standard » population that has a specific structure in terms of age, duration of residence in Switzerland and place of birth. Standardization is justified by the strong influence of those variables on the propensity to be naturalized (Kitagawa 1964; Althauser & Wigler, 1972). So, the rates we computed considered the hypothetical number of naturalizations if every Swiss municipality presents the same demographic structure, which was established in 2000 using the structure of the foreign population on that time (Piguet and Wanner, 2000).
 
-Recently, those publications were updated and rates were made available on a website at the University of Geneva, available in French, German and Italian. 
+Recently, those publications were updated and rates were made available on a website at the University of Geneva, available in French, German and Italian. https://www.unige.ch/communication/communiques/en/2020/des-cartes-et-tableaux-interactifs-sur-la-pratique-de-naturalisation/
 
 Visitors of this website can find information on crude and standardized naturalization by population size of municipalities in the period 1992-2017. These numbers are visualised in Figure 1 for the period 2011-2017. : 
 
 Moreover, web visitors can explore interactive maps with crude and standardized naturalized naturalization by municipality. Figure 2 provides data on standardized naturalization rates for the period 2011-17.
 https://www.unige.ch/communication/communiques/en/2020/des-cartes-et-tableaux-interactifs-sur-la-pratique-de-naturalisation/
 
-In order to make data available in an appealing way, we mapped the rates using R (a free software environment for statistical computing and graphics) and the library Leaflet (an open-source JavaScript library for interactive maps). The leaflet library for R allows users who not are familiar with JavaScript language to easily create web maps by means of its core functions (Cheng et al. 2019), being also possible to add different tiles as base maps. The final outcome can be saved as and html file which be embed in any webpage. For those who could be interested in learning how to create this sort of interactive maps, we attach to this post data related with the standardized rates for the period 2011-2017 as well as the necessary shapefiles of Switzerland (by communes and cantons) and the annotated R code for creating the maps. For running the script, you need to have R and RStudio installed on your computer. We hope the community will find these extra materials useful.   
+In order to make data available in an appealing way, we mapped the rates using R and the library Leaflet which allows users who not are familiar with JavaScript language to easily create web maps by means of its core functions (Cheng et al. 2019). The final outcome can be saved as and html file which be embed in any webpage.   
+For those who could be interested in learning how to create this sort of interactive maps, and example with the standardized rates for the period 2011-2017 as well as the necessary shapefiles of Switzerland (by communes and cantons) and the annotated R code for creating the maps can be find here: https://github.com/JuanGaleano/Naturalization-rates-Switzerland/
+
 
 ## References: 
 
