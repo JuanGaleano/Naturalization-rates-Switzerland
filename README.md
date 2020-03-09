@@ -12,7 +12,7 @@ Recently, those publications were updated and rates were made available on a web
 
 Visitors of this website can find information on crude and standardized naturalization by population size of municipalities in the period 1992-2017. These numbers are visualised in Figure 1 for the period 2011-2017. : 
 
-Moreover, web visitors can explore interactive maps with crude and standardized naturalized naturalization by municipality. Figure 2 provides data on standardized naturalization rates for the period 2011-17.
+Moreover, web visitors can explore interactive maps with crude and standardized naturalized naturalization by municipality. Figure 2 provides data on standardized naturalization rates for the period 2011-17. The pop-up window included for each municipality contains information about the name of the municipality, the rate value, the absolute number of ordinary naturalizations (when there were more than five due to anonymity requirements) and the three main nationalities of individual accessing the Swiss citizenship. 
 https://www.unige.ch/communication/communiques/en/2020/des-cartes-et-tableaux-interactifs-sur-la-pratique-de-naturalisation/
 
 In order to make data available in an appealing way, we mapped the rates using R and the library Leaflet which allows users who not are familiar with JavaScript language to easily create web maps by means of its core functions (Cheng et al. 2019). The final outcome can be saved as and html file which be embed in any webpage.   
